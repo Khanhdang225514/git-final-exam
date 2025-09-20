@@ -1,5 +1,3 @@
 • Git giúp quản lý phiên bản code dễ dàng.
 • Có thể theo dõi lịch sử commit.
 • Hỗ trợ làm việc nhóm hiệu quả.
-- Git reset giúp quay lại trạng thái trước đó
-- Git revert giúp hoàn tác commit mà vẫn giữ lịch sử
