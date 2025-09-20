@@ -13,3 +13,11 @@ Kỹ năng:
 - Lập trình Python
 - Làm việc nhóm
 - Thuyết trình
+
+Kế hoạch học tập:
+- Tôi sẽ dành ít nhất 3 giờ mỗi ngày để học Git và lập trình.
+- Tham gia đầy đủ các buổi học và làm bài tập đúng hạn.
+- Đọc thêm tài liệu tham khảo ngoài giờ lên lớp.
+- Thực hành qua các dự án nhỏ để củng cố kiến thức.
+- Rèn luyện kỹ năng làm việc nhóm thông qua các bài tập nhóm.
+
