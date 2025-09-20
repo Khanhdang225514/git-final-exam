@@ -11,12 +11,17 @@
 Ngày bắt đầu: 21/09/2025  
 Ngày kết thúc: 27/09/2025
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 - Task A: description
 - Task B: description
 - Task C: description
 
  
+=======
+- Task D: description
+- Task E: description
+>>>>>>> Stashed changes
 =======
 - Task D: description
 - Task E: description
