@@ -1,6 +1,6 @@
-Tôi là <Họ tên>, hiện đang là sinh viên ngành <ngành học>.
-Tôi sinh ra và lớn lên ở <quê quán>.
-Tôi yêu thích công nghệ và lập trình.
+Tôi là Phạm Huỳnh Khánh Đăng, hiện đang là sinh viên ngành CNTT.
+Tôi sinh ra và lớn lên ở AG.
+Tôi thích công nghệ và lập trình.
 Mục tiêu của tôi là trở thành một kỹ sư phần mềm giỏi.
 Tôi thích tham gia các hoạt động ngoại khóa để rèn luyện kỹ năng.
 
@@ -20,4 +20,3 @@ Kế hoạch học tập:
 - Đọc thêm tài liệu tham khảo ngoài giờ lên lớp.
 - Thực hành qua các dự án nhỏ để củng cố kiến thức.
 - Rèn luyện kỹ năng làm việc nhóm thông qua các bài tập nhóm.
-
