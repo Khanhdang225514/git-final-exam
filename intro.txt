@@ -1,0 +1,15 @@
+Tôi là <Họ tên>, hiện đang là sinh viên ngành <ngành học>.
+Tôi sinh ra và lớn lên ở <quê quán>.
+Tôi yêu thích công nghệ và lập trình.
+Mục tiêu của tôi là trở thành một kỹ sư phần mềm giỏi.
+Tôi thích tham gia các hoạt động ngoại khóa để rèn luyện kỹ năng.
+
+Sở thích: 
+- Đọc sách
+- Chơi thể thao
+- Lập trình
+
+Kỹ năng:
+- Lập trình Python
+- Làm việc nhóm
+- Thuyết trình
