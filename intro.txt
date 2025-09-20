@@ -1,0 +1,23 @@
+Tôi là <Họ tên>, hiện đang là sinh viên ngành <ngành học>.
+Tôi sinh ra và lớn lên ở <quê quán>.
+Tôi yêu thích công nghệ và lập trình.
+Mục tiêu của tôi là trở thành một kỹ sư phần mềm giỏi.
+Tôi thích tham gia các hoạt động ngoại khóa để rèn luyện kỹ năng.
+
+Sở thích: 
+- Đọc sách
+- Chơi thể thao
+- Lập trình
+
+Kỹ năng:
+- Lập trình Python
+- Làm việc nhóm
+- Thuyết trình
+
+Kế hoạch học tập:
+- Tôi sẽ dành ít nhất 3 giờ mỗi ngày để học Git và lập trình.
+- Tham gia đầy đủ các buổi học và làm bài tập đúng hạn.
+- Đọc thêm tài liệu tham khảo ngoài giờ lên lớp.
+- Thực hành qua các dự án nhỏ để củng cố kiến thức.
+- Rèn luyện kỹ năng làm việc nhóm thông qua các bài tập nhóm.
+
