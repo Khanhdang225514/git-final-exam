@@ -1,4 +1,7 @@
-Hello, this is <Họ Tên>
+Hello, this is Phạm Huỳnh Khánh Đăng
+Xin chào, tôi là Phạm Huỳnh Khánh Đăng
+Conflict resolved on 20/09/2025
+
 Tôi sinh ra và lớn lên ở AG.
 Tôi thích công nghệ và lập trình.
 Mục tiêu của tôi là trở thành một kỹ sư phần mềm giỏi.
