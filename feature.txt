@@ -1,0 +1,7 @@
+Tính năng mới: Chatbot hỗ trợ sinh viên.
+
+- Chatbot trả lời câu hỏi về lịch học.
+- Chatbot cung cấp tài liệu tham khảo.
+- Chatbot lưu lịch sử hội thoại.
+- Chatbot hỗ trợ đa ngôn ngữ.
+- Chatbot hoạt động trên cả web và mobile.
