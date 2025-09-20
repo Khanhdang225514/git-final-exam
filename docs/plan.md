@@ -10,3 +10,9 @@
 
 Ngày bắt đầu: 21/09/2025  
 Ngày kết thúc: 27/09/2025
+
+- Task A: description
+- Task B: description
+- Task C: description
+
+ 
